@@ -3,9 +3,11 @@ public class Addition {
                                             int a;
                                             int b;
                                             int c;
+                                            int d;
                                             a=10;
                                             b=20;
-                                            c=a+b;
+                                            c=30;
+                                            d=a+b+c;
                                             System.out.println(c);
                       }
 }
