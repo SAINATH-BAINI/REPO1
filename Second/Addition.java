@@ -8,6 +8,6 @@ public class Addition {
                                             b=20;
                                             c=30;
                                             d=a+b+c;
-                                            System.out.println(c);
+                                            System.out.println(d);
                       }
 }
